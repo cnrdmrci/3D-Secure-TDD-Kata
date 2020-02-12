@@ -1,0 +1,10 @@
+# Visual Studio cache/options directory
+3DSecureKata/.vs
+3DSecureKata.UnitTest/.vs
+.vs
+
+# MSBuild Binary
+3DSecureKata/bin
+3DSecureKata/obj
+3DSecureKata.UnitTest/bin
+3DSecureKata.UnitTest/obj
